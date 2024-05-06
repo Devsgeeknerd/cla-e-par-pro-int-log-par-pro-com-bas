@@ -11,7 +11,7 @@ Programar um computador, assim como a mente humana, requer duas exigências bás
 
 Podemos traçar um paralelo entre as linguagens de programação - como **C**, **C#** e **Java** – e a **“linguagem”** do cérebro.
 
-A **“linguagem”** do cérebro poderia ser composta pelos seguintes comandos:
+A **“linguagem”** do cérebro poderia ser composta pelos seguintes comandos :
 
 * Olhar;
 * Escutar;
